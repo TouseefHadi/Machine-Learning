@@ -16,9 +16,13 @@ And it will open the web page at your local host and than predict spam and not-s
 i provide comment with each line of code in details as much as possible for better understanding the code.
 #######################################################################
 
-here is two files one is main  with name "email-sms-spam-notspam-detection.ipynb"
+==> here are four files one is main  with name "email-sms-spam-notspam-detection.ipynb"
 
-and the other is for creating a simple website with named "web_page_Detection.py
+==> and the other is for creating a simple website with named "web_page_Detection.py"
+
+==> "model_file.pkl"  and  "vectorizer_file.pkl" are the two files which are use in "web_page_Detection.py" for website and these two files,
+     contain on the results and information we collect from the training as for "MultinomialNB" classifier accuracy and precision values.   
+
 
 ################################################################################################################################
 Thats all thank you have a nice day.
